@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Desenvolvimento de uma landing page responsiva utilizando HTML para marcação e CSS com Flexbox para estilização - Página Apeperia
